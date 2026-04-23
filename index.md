@@ -25,4 +25,4 @@ The catplots below provided a clear visual of the relationship between practice 
 
 
 
-<img src="/workspace/personal-site.github.io/output.png" width="500"/>
+<img src="personal-site.github.io/output.png" width="500"/>
