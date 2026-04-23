@@ -23,6 +23,4 @@ After cleaning and organizing the data from survey results, we found that "progr
 The catplots below provided a clear visual of the relationship between practice and understanding
 
 
-
-
-<img src="personal-site.github.io/output.png" width="500"/>
+<img src="output.png" width="500"/>
